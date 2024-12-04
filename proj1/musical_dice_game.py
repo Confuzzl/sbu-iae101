@@ -1,6 +1,6 @@
 # Vincent Yang
 # viyyang
-# 116579508
+# XXXXXXXXX
 #
 # 10/1/24
 # musical_dice_game.py

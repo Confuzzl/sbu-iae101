@@ -3,7 +3,7 @@
 # Project 04 - Building a Twitterbot
 # Name: Vincent Yang
 # netid: viyyang
-# Student ID: 116579508
+# Student ID: XXXXXXXXX
 
 import os
 import time
