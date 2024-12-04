@@ -1,7 +1,7 @@
 # IAE 101
 # Project 03 - Poetry Generator
 # Vincent Yang
-# XXXXXXXXX
+# 116579508
 # viyyang
 # 11/16/24
 # poetry_generator.py (v.7)
